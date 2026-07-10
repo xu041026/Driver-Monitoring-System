@@ -8,16 +8,6 @@
 
 ---
 
-## 项目演示
-
-> 项目运行效果展示（图片/GIF待补充）
-
-<div align="center">
-<img src="./docs/system.jpg" width="600">
-</div>
-
----
-
 # 系统功能
 
 ## 1. 疲劳驾驶检测
